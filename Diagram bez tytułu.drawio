@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2251" dy="1319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1961" dy="1135" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,7 +361,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UD4GyCG60J8t-RKTFhN8-85" value="GrupyPrzyczyn" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="UD4GyCG60J8t-RKTFhN8-85" value="GrupyPrzyczyn" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="653" y="886" width="250" height="140" as="geometry">
             <mxRectangle x="-140" y="320" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -449,7 +449,7 @@
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UD4GyCG60J8t-RKTFhN8-105" value="Przyczyny" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="UD4GyCG60J8t-RKTFhN8-105" value="Przyczyny" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="653" y="710" width="250" height="160" as="geometry">
             <mxRectangle x="-140" y="320" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -570,7 +570,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UD4GyCG60J8t-RKTFhN8-129" value="Trasy" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="UD4GyCG60J8t-RKTFhN8-129" value="Trasy" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="650" y="410" width="250" height="280" as="geometry">
             <mxRectangle x="-140" y="320" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1365,9 +1365,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UD4GyCG60J8t-RKTFhN8-304" value="Archiwalne" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-563" y="-122" width="273" height="23" as="geometry" />
+          <mxGeometry x="-563" y="-145" width="273" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="UD4GyCG60J8t-RKTFhN8-306" value="Słownikowe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="UD4GyCG60J8t-RKTFhN8-306" value="Słownikowe lokalne" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-563" y="-99" width="273" height="23" as="geometry" />
         </mxCell>
         <mxCell id="UD4GyCG60J8t-RKTFhN8-307" value="Pomocnicze generacja identyfikatorów" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -1377,7 +1377,7 @@
           <mxGeometry x="-563" y="-53" width="273" height="23" as="geometry" />
         </mxCell>
         <mxCell id="UD4GyCG60J8t-RKTFhN8-309" value="Legenda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-456.5" y="-144" width="60" height="22" as="geometry" />
+          <mxGeometry x="-456.5" y="-167" width="60" height="22" as="geometry" />
         </mxCell>
         <mxCell id="UD4GyCG60J8t-RKTFhN8-310" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-563" y="-30" width="273" height="23" as="geometry" />
@@ -1440,6 +1440,9 @@
               <mxPoint x="961" y="2411" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UD4GyCG60J8t-RKTFhN8-324" value="Słownikowe globalne" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-563" y="-122" width="273" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
